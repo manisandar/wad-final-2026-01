@@ -8,8 +8,8 @@
 ---
 
 ## Live Deployments
-- **Frontend App:** [https://react-frontend-weld-beta.vercel.app](https://react-frontend-weld-beta.vercel.app)
-- **Backend API:** [https://next-backend-sandy.vercel.app](https://next-backend-sandy.vercel.app)
+- **Frontend App:** [https://react-frontend-manisandar.vercel.app](https://react-frontend-manisandar.vercel.app)
+- **Backend API:** [https://next-backend-manisandar.vercel.app](https://next-backend-manisandar.vercel.app)
 - **GitHub Repository:** [https://github.com/manisandar/wad-final-2026-01](https://github.com/manisandar/wad-final-2026-01)
 
 ---

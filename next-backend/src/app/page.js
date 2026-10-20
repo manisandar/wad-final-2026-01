@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="pt-2 flex flex-col sm:flex-row gap-3">
           <a
-            href="https://react-frontend-weld-beta.vercel.app"
+            href="https://react-frontend-manisandar.vercel.app"
             className="flex-1 inline-flex items-center justify-center px-5 py-3 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-medium text-sm transition-all shadow-lg shadow-indigo-600/25 active:scale-[0.98]"
           >
             Launch Web Application →
